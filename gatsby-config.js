@@ -3,11 +3,11 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://thailaidevport.netlify.app/`,
     // Your Name
-    name: 'Thai Lai',
+    name: 'Nhu Chenh',
     // Main Site Title
-    title: `Thai Lai | Full-Time Software Engineer Student`,
+    title: `Nhu Chenh | Full-Time Social Media Influencer`,
     // Description that goes under your name in main bio
-    description: `Full-Time Software Engineer Student at The University of Texas at Arlington`, 
+    description: ``, 
     //location: `Located in Dallas/Fort-Worth Metroplex`,
     // Optional: Twitter account handle
     author: `https://stackoverflow.com/users/14517192/watusshi`,
@@ -92,7 +92,7 @@ module.exports = {
       {
         name: 'Human Languages',
         description:
-          'English, Vietnamese, and a little bit of Chinese',
+          'English, Vietnamese, Cantonese & TeoChew',
       },
     ],
   },
